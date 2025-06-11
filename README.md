@@ -13,7 +13,7 @@
 - 💬 WhatsApp: (21) 2018-0441  
 - 🌐 Website: [https://www.novanettelecom.com/](https://www.novanettelecom.com/)
 
-**Horários de Funcionamento (atendimento presencial):**  
+**Horários de Funcionamento:**  
 - 👨‍🔧 **Técnico:** Todos os dias, das 09h às 17h  
 - 💳 **Financeiro:** Segunda a sábado, das 09h às 20h  
 - 🛒 **Comercial:**  
@@ -24,6 +24,8 @@
 
 📅 **Última atualização:** 07/06/2025
 
+**Horários permitidos para visita técnica (atendimento presencial)**
+- 👨‍🔧 **Técnico:** Todos os dias, das 09h às 17h
 ---
 
 ## ⭐ Diferenciais
