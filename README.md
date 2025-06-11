@@ -1,8 +1,8 @@
-# **Fibras do Rio**
+# **FIBRAS DO RIO**
 
 ## 🏢 Sobre a Empresa
 
-**Razão Social:** Novanet - Fibras do Rio
+**Razão Social:** Fibras do Rio
 
 **Endereços:**  
 - 📍 Av. das Américas, 500 - Bloco 13, Sala 220 - Barra da Tijuca, RJ  
