@@ -11,7 +11,7 @@
 **Contatos:**  
 - 📞 Telefone: (21) 2391-9644  
 - 💬 WhatsApp: (21) 2018-0441  
-- 🌐 Website da Fibras do Rio: [https://www.novanettelecom.com/](https://www.novanettelecom.com/)
+- 🌐 Website OFICIAL da Fibras do Rio: [https://www.novanettelecom.com/](https://www.novanettelecom.com/)
 
 **Horários de Funcionamento:**  
 - 👨‍🔧 **Técnico:** Todos os dias, das 09h às 17h  
