@@ -27,6 +27,10 @@
 **Horários permitidos para visita técnica (atendimento presencial)**
 - 👨‍🔧 **Técnico:** Todos os dias, das 09h às 17h
 ---
+**Prazos visita técnica (atendimento presencial)**
+- 👨‍🔧 **CPF:** 48 - horas
+- 👨‍🔧 **CNPJ:** 24 - horas
+---
 
 ## ⭐ Diferenciais
 
